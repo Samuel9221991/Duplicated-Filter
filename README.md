@@ -1,5 +1,5 @@
 # Duplicated Filer `v1.0.0`
-***Check the duplicated lines of 2 `.txt` files.***
+***Check the duplicated lines of 2 `.txt` files and save only one of the duplicated lines and the original lines in other `.txt`***
 
 ## Instalation
 `1.` **Download the `start.py` file** *(`wget https://github.com/Samuel9221991/Duplicated-Filter/releases/download/v1.0.0/start.py`).*
