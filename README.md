@@ -2,7 +2,7 @@
 ***Check the duplicated lines of 2 `.txt` files.***
 
 ## Instalation
-`1.` **Download the `start.py` file. *(`wget https://github.com/Samuel9221991/Duplicated-Filter/releases/download/v1.0.0/start.py`)*
+`1.` **Download the `start.py` file.** *(`wget https://github.com/Samuel9221991/Duplicated-Filter/releases/download/v1.0.0/start.py`)*
 
 ## Requirements
 `1.` **Python3** *(`apt install python3`)* ***|*** *(`yum install python3`)*
