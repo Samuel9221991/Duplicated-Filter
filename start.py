@@ -1,4 +1,3 @@
-import threading
 
 
 
@@ -97,12 +96,9 @@ if __name__ == "__main__":
     print("")
 
 
-    Crear1T = threading.Thread(target=crear1, args=())
-    Crear2T = threading.Thread(target=crear2, args=())
-
     revisar()
-    Crear1T.start()
-    Crear2T.start()
+    crear1()
+    crear2()
 
     resultado_txt.close()
     print(f"[✅] The result has been saved with the name \"{resultado}\"")
