@@ -1,4 +1,4 @@
-# Duplicated Filer `v1.0.0`
+# Duplicated Filer `v1.0.1`
 ***Check the duplicated lines of 2 `.txt` files and save only one of the duplicated lines and the original lines in other `.txt`***
 
 ## Instalation
