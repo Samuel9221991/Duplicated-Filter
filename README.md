@@ -10,5 +10,7 @@
 ## Usage
 `python3 start.py`
 > `1.` Put the name of the first file.
+> 
 > `2.` Put the name of the second file.
+> 
 > `3.` Put the name of the results file.
