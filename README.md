@@ -8,7 +8,7 @@
 `1.` **Python3** *(`apt install python3`)* ***|*** *(`yum install python3`)*
 
 ## Usage
-`python3 start.py`
+**`python3 start.py`**
 > `1.` Put the name of the first file.
 > 
 > `2.` Put the name of the second file.
